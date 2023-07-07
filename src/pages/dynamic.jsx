@@ -13,7 +13,7 @@ function Index() {
     setTimeout(() => {
       //代码字符串
       const codeStr = `
-      function(){
+      function Test(){
         function Example() {
           // 声明一个新的叫做 “count” 的 state 变量
           const [count, setCount] = React.useState(0);
